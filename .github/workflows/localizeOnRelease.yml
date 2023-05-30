@@ -1,4 +1,4 @@
-name: Localize - New Release 2
+name: Localize - New Release
 on:
   create:
     branches:
