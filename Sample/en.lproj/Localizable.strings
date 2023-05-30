@@ -1,3 +1,5 @@
 "network_error" = "Network error. Please check your internet connection."; /* Context: Error message when network is not available */
 
 "payment_successful" = "Payment successful. Thank you for your purchase!"; /* Context: Success message displayed after the user has successfully completed a payment transaction within the app. */
+
+"outdated_version_warning" = "You're using an outdated version of the app. Please update to the latest version for a better experience."; /* Context: Warning message displayed when the user is using an outdated version of the app. */
