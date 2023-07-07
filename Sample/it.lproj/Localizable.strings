@@ -1,0 +1,5 @@
+"network_error" = "Errore di rete. Si prega di controllare la connessione internet.";
+"payment_successful" = "Pagamento riuscito. Grazie per il tuo acquisto!";
+"registration_successful" = "Registrazione completata. Benvenuto nella nostra app!";
+"server_unreachable" = ""Il server non è raggiungibile. Per favore riprova più tardi."";
+"file_upload_failed" = "Il caricamento del file non è riuscito. Controlla il file e prova di nuovo.";
