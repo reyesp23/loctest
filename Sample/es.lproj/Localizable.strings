@@ -1,0 +1,5 @@
+"network_error" = "Error de red. Por favor, verifica tu conexión a internet.";
+"payment_successful" = "Pago exitoso. ¡Gracias por tu compra!";
+"registration_successful" = "Registro exitoso. ¡Bienvenido a nuestra aplicación!";
+"server_unreachable" = "El servidor no está accesible. Por favor, inténtalo de nuevo más tarde.";
+"file_upload_failed" = "La carga del archivo ha fallado. Por favor, comprueba el archivo e inténtalo de nuevo.";
