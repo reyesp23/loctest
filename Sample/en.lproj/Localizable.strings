@@ -5,3 +5,5 @@
 "registration_successful" = "Registration successful. Welcome to our app!"; /* Context: Success message displayed after the user has successfully registered on the application. */
 
 "server_unreachable" = "Server is unreachable. Please try again later."; /* Context: Error message when the server is not responding. */
+
+"file_upload_failed" = "File upload failed. Please check the file and try again."; /* Context: Error message when a user tries to upload a file and it fails. */
